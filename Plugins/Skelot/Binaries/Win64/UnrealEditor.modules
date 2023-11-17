@@ -1,0 +1,8 @@
+{
+	"BuildId": "25360045",
+	"Modules": 
+	{
+		"Skelot": "UnrealEditor-Skelot.dll",
+		"SkelotEd": "UnrealEditor-SkelotEd.dll"
+	}
+}
